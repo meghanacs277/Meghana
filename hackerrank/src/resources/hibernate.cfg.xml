@@ -10,6 +10,7 @@
     <property name="connection.password">4MC17IS026</property>
     <property name="hbm2ddl.auto">update</property>
     <mapping class="www.wolken.hackerrank.entity.UserEntity"/>
+    <mapping class="www.wolken.hackerrank.entity.HackerLoginEntity"/>
     
   </session-factory>
 </hibernate-configuration>

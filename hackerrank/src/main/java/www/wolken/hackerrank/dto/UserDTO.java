@@ -10,5 +10,6 @@ package www.wolken.hackerrank.dto;
 		private String email;
 		private String password;
 		private long contact;
+		private String conPassword;
 
 }
