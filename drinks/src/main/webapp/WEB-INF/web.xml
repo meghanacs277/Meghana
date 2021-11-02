@@ -1,0 +1,98 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <servlet>
+  	<servlet-name>cola</servlet-name>
+  	<servlet-class>www.wolken.drinks.colaServlet</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>maza</servlet-name>
+  	<servlet-class>www.wolken.drinks.mazaServlet</servlet-class>
+  </servlet>
+  
+    <servlet>
+  	<servlet-name>mountaindew</servlet-name>
+  	<servlet-class>www.wolken.drinks.mountaindewServlet</servlet-class>
+  </servlet>
+  
+    <servlet>
+  	<servlet-name>pespsi</servlet-name>
+  	<servlet-class>www.wolken.drinks.pepsiServlet</servlet-class>
+  </servlet>
+  
+    <servlet>
+  	<servlet-name>savenup</servlet-name>
+  	<servlet-class>www.wolken.drinks.savenupServlet</servlet-class>
+  </servlet>
+  
+    <servlet>
+  	<servlet-name>slice</servlet-name>
+  	<servlet-class>www.wolken.drinks.sliceServlet</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>spirit</servlet-name>
+  	<servlet-class>www.wolken.drinks.spiritServlet</servlet-class>
+  </servlet>
+  
+  <servlet>
+  	<servlet-name>thumsup</servlet-name>
+  	<servlet-class>www.wolken.drinks.thumsupServlet</servlet-class>
+  </servlet>
+  
+    <servlet-mapping>
+  	<servlet-name>cola</servlet-name>
+  	<url-pattern>/cola</url-pattern>
+  </servlet-mapping>
+  
+      <servlet-mapping>
+  	<servlet-name>maza</servlet-name>
+  	<url-pattern>/maza</url-pattern>
+  </servlet-mapping>
+  
+      <servlet-mapping>
+  	<servlet-name>mountaindew</servlet-name>
+  	<url-pattern>/mountaindew</url-pattern>
+  </servlet-mapping>
+  
+      <servlet-mapping>
+  	<servlet-name>pespsi</servlet-name>
+  	<url-pattern>/pespsi</url-pattern>
+  </servlet-mapping>
+  
+      <servlet-mapping>
+  	<servlet-name>savenup</servlet-name>
+  	<url-pattern>/savenup</url-pattern>
+  </servlet-mapping>
+  
+      <servlet-mapping>
+  	<servlet-name>slice</servlet-name>
+  	<url-pattern>/slice</url-pattern>
+  </servlet-mapping>
+  
+      <servlet-mapping>
+  	<servlet-name>spirit</servlet-name>
+  	<url-pattern>/spirit</url-pattern>
+  </servlet-mapping>
+  
+      <servlet-mapping>
+  	<servlet-name>thumsup</servlet-name>
+  	<url-pattern>/thumsup</url-pattern>
+  </servlet-mapping>
+  
+   <welcome-file-list>
+  	<welcome-file>maza.html</welcome-file>
+  </welcome-file-list>
+  
+  
+  
+  
+  
+  
+  
+  
+</web-app>
+

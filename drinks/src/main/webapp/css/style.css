@@ -1,0 +1,125 @@
+@charset "ISO-8859-1";
+.container-justify{
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom:5%;
+}
+.justify-space{
+    margin-bottom:5%;
+}
+.btn-lg{
+    width: 70%;
+  
+}
+.btn-size{
+    width: 50%;
+}
+
+.cola{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4OwwnayWP876_JeurhU0kmbpX9Zg-QdLpJOAW08wY39baSREmEAVBu5w-faZMEqpcQYk&usqp=CAU") ;
+    background-size: cover;
+    min-height: 100px;
+    border: black;
+}
+.fanta{
+    background-image: url("https://cdn.cnetcontent.com/syndication/mediaserverredirect/bb53f9c8503aac387dbc125089dbb24f/width(1200).png");
+    background-size: cover;
+    min-height: 100px;
+    border: black;
+}
+.spirit{
+    background-image: url("https://i.pinimg.com/originals/ea/3f/b5/ea3fb511c576fba39eb1f36023d1b062.jpg");
+    background-size: cover;
+    min-height: 100px;
+    border: orange;
+}
+.mountaindew{
+    background-image: url("https://www.desktopbackground.org/download/1024x600/2014/05/22/766425_mountain-dew-logo_1200x839_h.jpg");
+    background-size: cover;
+    min-height: 100px;
+    border: black;
+}
+.savenup{
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/502/845/72/products-7up-logo-wallpaper-preview.jpg");
+    background-size: cover;
+    min-height: 100px;
+    border: black;
+}
+.thumbsup{
+    background-image: url("https://3.bp.blogspot.com/-h80mpm_HRSY/TuOwWHa89JI/AAAAAAAAAHQ/adf8W0y2kiY/w1200-h630-p-k-no-nu/Thumbs+Up.jpg");
+    background-size: cover;
+    min-height: 100px;
+    border: black;
+}
+.pepsi{
+    background-image: url("https://www.shoplocalsomerset.com/wp-content/uploads/2016/08/Pepsi-Cola-Bottling-Company.jpg");
+    background-size: cover;
+    min-height: 100px;
+    border: black;
+}
+.slice{
+    background-image: url("https://www.exchange4media.com/news-photo/1521116591_mO6ald_slice.jpg");
+    background-size: cover;
+    min-height: 100px;
+    border: black;
+}
+
+
+.maza{
+    background-image: url("https://static.wikia.nocookie.net/logopedia/images/8/87/Maaza.jpeg/revision/latest?cb=20200321093159");
+    background-size: cover;
+    min-height: 100px;
+    border: black;
+}
+.submit{
+    width: 70%;
+    height: 60%;
+    border: black;
+}
+img{
+    height: 100%;
+}
+.margin-space{
+    margin-top: 7%;
+}
+.img-align{
+    width: 50%;
+    height: 30%;
+}
+.d-block {
+    margin-top: 4%;
+    width: 100%;
+    background-size: cover;
+}
+.bg-color{
+    margin-top: 23%;
+    color: blanchedalmond;
+}
+.container-fluid{
+    height: 100px;
+}
+.carousel-item{
+    height: 100%;
+    position: absolute;
+}
+.carousel-inner{
+    height: 400px;
+    background-size: cover;
+}
+.card-group{
+    margin-bottom: 3%;
+}
+.margin-adjust{
+    margin-bottom: 10%;
+}
+.justify-space{
+    margin-bottom: 4%;
+}
+.bg-footer{
+    color: blanchedalmond;
+    background-color: brown;
+    height: 7%;
+}
+.txt-color{
+    color: blue;
+}
